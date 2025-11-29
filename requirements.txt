@@ -1,1 +1,6 @@
 streamlit
+plotly
+sqlite3
+pandas
+altair
+datetime
